@@ -1,0 +1,32 @@
+country_iso,country_name,continent,region
+USA,United States,North America,Northern America
+CAN,Canada,North America,Northern America
+MEX,Mexico,North America,Central America
+BRA,Brazil,South America,South America
+ARG,Argentina,South America,South America
+COL,Colombia,South America,South America
+GBR,United Kingdom,Europe,Northern Europe
+DEU,Germany,Europe,Western Europe
+FRA,France,Europe,Western Europe
+ITA,Italy,Europe,Southern Europe
+ESP,Spain,Europe,Southern Europe
+POL,Poland,Europe,Eastern Europe
+SWE,Sweden,Europe,Northern Europe
+CHN,China,Asia,Eastern Asia
+IND,India,Asia,Southern Asia
+JPN,Japan,Asia,Eastern Asia
+KOR,South Korea,Asia,Eastern Asia
+IDN,Indonesia,Asia,South-Eastern Asia
+PAK,Pakistan,Asia,Southern Asia
+BGD,Bangladesh,Asia,Southern Asia
+VNM,Vietnam,Asia,South-Eastern Asia
+THA,Thailand,Asia,South-Eastern Asia
+PHL,Philippines,Asia,South-Eastern Asia
+NGA,Nigeria,Africa,Western Africa
+EGY,Egypt,Africa,Northern Africa
+ZAF,South Africa,Africa,Southern Africa
+KEN,Kenya,Africa,Eastern Africa
+ETH,Ethiopia,Africa,Eastern Africa
+DZA,Algeria,Africa,Northern Africa
+AUS,Australia,Oceania,Australia and New Zealand
+NZL,New Zealand,Oceania,Australia and New Zealand
